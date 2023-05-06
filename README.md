@@ -1,22 +1,17 @@
-# Welcome and enjoy my journey! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="70px"> 
+ <p img align="center">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="170px"> 
 
-<p align="center">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" width="auto" height="200px">
-</p>
-
-<p align="justify">
-  i, @lanafuadi, am a highly motivated individual seeking a career in the field of data science. I have gained hands-on experience from Rakamin Bootcamp, DQLab, RevoU, and from various projects i contribute, where I have developed skills in collaboration, communication, critical thinking, problem-solving, and applying new learning. As a Data Scientist, I have a passion for using data to gain valuable insights that can help businesses make informed decisions. My expertise in Python, PostgreSQL, Excel, Spreadheet, and machine learning, combined with my understanding in statistical analysis and business intelligence, allow me to create predictive models and analyze big data sets to become business solution.
-  I am still learning and honing my fluency in Python, Machine Learning, SQL, Business Intelligence, and Tableau to excel in my new role.
+## My Introduction
   
-  i’m looking to collaborate on any project involved in data, such as data wrangling, machine learning, business analysis, etc.
+<p align="justify">
+  I am a highly motivated and results-driven Data Scientist with a passion for leveraging data to drive business success. Through rigorous training at Rakamin Bootcamp, DQLab, and RevoU, as well as diverse projects, I have honed my skills in collaboration, critical thinking, and problem-solving.
+  I am still learning and honing my fluency in Python, Machine Learning, SQL, Business Intelligence, and Tableau to excel in my new role.With my unwavering commitment to professional growth and a keen eye for detail, I am confident in my ability to help your organization make data-driven decisions that propel your business to new heights.
 </p>
 
-<!-- ## 👁‍🗨 Visitors Count -->
 
-![Visitor Count](https://profile-counter.glitch.me/{lanafuadi}/count.svg)
-
-<img align='right' src = "https://github.com/lanafuadi/GitHub-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" width="40%" align="right" alt="Lana Fuadi's Top Programming Languages">
-
+[![Lana Fuadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanafuadi&count_private=true&show_icons=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+ 
  
  
  
@@ -31,13 +26,9 @@
 
 
 
-<img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 
-
-
-
-## 📫 Contact me at
+## 📫 My Contact
 
 <p>
   <a href="https://www.linkedin.com/in/lanafuadi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
