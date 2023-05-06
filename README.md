@@ -9,7 +9,7 @@
 </p>
 
 
-[![Lana Fuadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanafuadi&count_private=true&show_icons=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Lana Fuadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanafuadi&count_private=true&border_color=006db0)](https://github.com/anuraghazra/github-readme-stats)
 </p>
  
  
