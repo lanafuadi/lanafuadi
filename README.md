@@ -23,11 +23,11 @@
  ## My Journey
 
 
-| 🎓 Courses | [Rakamin](https://www.rakamin.com/career-bootcamp/data-science) · [RevoU](https://revou.co/mini-course-data-analytics) · [Others](https://www.coursera.org/) |
+🎓 Courses                | [Rakamin](https://www.rakamin.com/career-bootcamp/data-science) · [RevoU](https://revou.co/mini-course-data-analytics) · [Others](https://www.coursera.org/) |
 
-| ⭐ Portfolio | [Github](https://github.com/lanafuadi?tab=repositories) · [Medium](https://medium.com/@lanafuadi/list/portfolio-124cf9e09550) |
+⭐ Portfolio              | [Github](https://github.com/lanafuadi?tab=repositories) · [Medium](https://medium.com/@lanafuadi/list/portfolio-124cf9e09550) |
 
-| 📝 Colaborative Projects | [1](https://github.com/sabirinID/Final-Project-Quattro) · [2](https://github.com/sabirinID/Telecom-Churn-Analysis) | 
+📝 Colaborative Projects  | [1](https://github.com/sabirinID/Final-Project-Quattro) · [2](https://github.com/sabirinID/Telecom-Churn-Analysis) | 
 
 
 
