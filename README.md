@@ -38,5 +38,3 @@
   <a href="https://wa.me/085158554767" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
-<!-- ![@lanafuadi](https://madewithlove.now.sh/id?heart=true) -->
-![@lanafuadi](https://madewithlove.now.sh/id?heart=true&template=for-the-badge)
