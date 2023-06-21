@@ -1,15 +1,14 @@
- <p img align="center">
+![image](https://github.com/lanafuadi/lanafuadi/assets/128001293/bb537780-4d95-4d9f-ad4c-5cf4597f8771) <p img align="center">
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="170px"> 
 
 ## My Introduction
   
 <p align="justify">
-  I am a highly motivated and results-driven Data Scientist with a passion for leveraging data to drive business success. Through rigorous training at Rakamin Bootcamp, DQLab, and RevoU, as well as diverse projects, I have honed my skills in collaboration, critical thinking, and problem-solving.
-  I am still learning and honing my fluency in Python, Machine Learning, SQL, Business Intelligence, and Tableau to excel in my new role.With my unwavering commitment to professional growth and a keen eye for detail, I am confident in my ability to help your organization make data-driven decisions that propel your business to new heights.
+  Lana is a a results-driven data scientist with a passion for leveraging data to drive business success. Through rigorous training at Rakamin Bootcamp, he has honed his skills in Python, ML, SQL, and Business Intelligence. he is committed to continuous learning and have completed additional certifications and course to further enhance his expertise. With strong collaboration, critical thinking, and problem solving skills, he is confident in his ability to help your company make data-driven decisions that propel your business to new heights.
 </p>
 
 
-[![Lana Fuadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanafuadi&count_private=true&border_color=006db0)](https://github.com/anuraghazra/github-readme-stats)
+[![Lana Fuadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanafuadi&count_private=true&hide_rank=true&border_color=006db0)](https://github.com/anuraghazra/github-readme-stats)
 
  
  
