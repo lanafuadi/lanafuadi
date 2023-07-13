@@ -4,7 +4,7 @@
 ## My Introduction
   
 <p align="justify">
-  Lana is a a results-driven data scientist with a passion for leveraging data to drive business success. Through rigorous training at Rakamin Bootcamp, he has honed his skills in Python, ML, SQL, and Business Intelligence. he is committed to continuous learning and have completed additional certifications and course to further enhance his expertise. With strong collaboration, critical thinking, and problem solving skills, he is confident in his ability to help your company make data-driven decisions that propel your business to new heights.
+  I am a dedicated and ambitious junior data scientist with a deep focus on machine learning. Equipped with a solid foundation in statistical analysis, programming, and model evaluation, I am driven to solve complex problems through the application of machine learning methodologies. My goal is to leverage the power of machine learning such as predictive modeling, hyperparameter tuning, and model deployment to deliver accurate and actionable results. I am excited to contribute to the development of innovative machine learning solutions that drive impactful outcomes.
 </p>
 
 
