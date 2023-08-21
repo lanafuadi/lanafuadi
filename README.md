@@ -4,7 +4,7 @@
 ## My Introduction
   
 <p align="justify">
-  I am a dedicated and ambitious junior data scientist with a deep focus on machine learning. Equipped with a solid foundation in statistical analysis, programming, and model evaluation, I am driven to solve complex problems through the application of machine learning methodologies. My goal is to leverage the power of machine learning such as predictive modeling, hyperparameter tuning, and model deployment to deliver accurate and actionable results. I am excited to contribute to the development of innovative machine learning solutions that drive impactful outcomes.
+  I am a Certified Data Scientist with a proficiency in Structured Query Language (SQL), Python Programming, Machine Learning, and Data Visualization. I have completed 10+ projects honing my expertise in SQL query such as Data Definition Language, Data Manipulation Language, and Common Table Expression, also my expertise in Python programming such as Exploratory Data Analysis, Feature Engineering, Model Evaluation, Tuning, and Data Visualization. My passion is to solve complex problems through the application of SQL, Data Visualization, and Machine Learning methodologies. I am actively seeking opportunities to apply my skills, expand my knowledge, and drive impactful insights in data-driven roles.
 </p>
 
 
