@@ -15,9 +15,9 @@
  ## My Journey
 
 
-🎓 Courses                | [Rakamin](https://www.rakamin.com/career-bootcamp/data-science) · [RevoU](https://revou.co/mini-course-data-analytics) · [DQLab](https://dqlab.id/) |
+🎓 Courses                | [Rakamin](https://www.rakamin.com/career-bootcamp/data-science) · [Coursera](https://www.coursera.org/account/accomplishments/verify/E4LCUFKJTWAL) · [DQLab](https://dqlab.id/) |
 
-⭐ Portfolio              | [Github](https://github.com/lanafuadi?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/lanafuadi/details/projects/) |
+⭐ Portfolio              | [Drive](https://drive.google.com/drive/folders/1SiNqfhg1KZYBZdYawz3-7HEkePAYlKaB) · [LinkedIn](https://www.linkedin.com/in/lanafuadi/details/projects/) |
 
 📝 Personal               | [Resume](https://drive.google.com/drive/folders/1Q0okfH2PGaiOadct0kL9J58CmVVI8_zG) · [Contact](mailto:lanafuadi@gmail.com) | 
 
